@@ -1,7 +1,7 @@
 ---
-<div style="text-align: center;">
-## LAPORAN PRAKTIKUM METODE KOMPUTASI 
-</div>
+<p align="center">
+** LAPORAN PRAKTIKUM METODE KOMPUTASI**
+<p>
 
 <p align="center">
 ##PERTEMUAN 1   
