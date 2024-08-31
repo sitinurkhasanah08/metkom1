@@ -1,6 +1,7 @@
 ---
+## halo ##
 <p align="center">
-** LAPORAN PRAKTIKUM METODE KOMPUTASI**
+LAPORAN PRAKTIKUM METODE KOMPUTASI
 <p>
 
 <p align="center">
@@ -34,7 +35,7 @@ FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM
 ##2024
 <p>
 ---
-<p>
+
 
 
 
