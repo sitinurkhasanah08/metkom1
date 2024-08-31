@@ -1,7 +1,6 @@
 ---
-## halo ##
 <p align="center">
-LAPORAN PRAKTIKUM METODE KOMPUTASI
+##LAPORAN PRAKTIKUM METODE KOMPUTASI##
 <p>
 
 <p align="center">
@@ -32,7 +31,7 @@ FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM
 ##UNIVERSITAS GADJAH MADA  
 <p>
 <p align="center">
-##2024
+##2024##
 <p>
 ---
 
