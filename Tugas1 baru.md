@@ -14,7 +14,6 @@ PENGENALAN GITHUB
 <p align="center">
 DIBUAT OLEH  
 <p>
-
 <p align="center">
 NAMA : SITI NURKHASANAH  
 <p> 
