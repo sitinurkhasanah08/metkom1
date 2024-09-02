@@ -46,8 +46,12 @@ ________________________________________________________________________________
 <p>
 <br>
 Pada praktikum metode komputasi tanggal 29 Agustus 2024 kemarin, saya belajar banyak hal sebagai berikut :
-1. Apa itu github dan fungsinya                              
-2. Cara kerja github
+<br>
+1. Apa itu Github?
+GitHub adalah platform online yang digunakan untuk menyimpan dan mengelola kode. Github memungkinkan banyak orang bekerja bersama dalam proyek perangkat lunak, melacak perubahan yang dibuat pada kode, dan mengelola versi yang berbeda dari proyek tersebut. GitHub juga memungkinkan penggunanya berbagi proyek mereka dengan orang lain, baik untuk berkolaborasi, belajar, ataupun untuk  menunjukkan hasil karya mereka. 
+<br>
+2. Fungsi Github
+Cara kerja github
 3. Manfaat belajar github
 4. Praktek menginstal aplikasi github
 5. Praktek membuat folder di akun github dan menghubungkan akun github dengan vs code
