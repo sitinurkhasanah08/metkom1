@@ -40,16 +40,14 @@ UNIVERSITAS GADJAH MADA
 <p align="center">
 ____________________________________________________________________________________________________________________
 <p>
-<p align="center">
 # TUGAS 1
-## Praktikum Metode Komputasi Pertemuan 1
-<p>
+## Apa yang saya pelajari dan masih saya bingungkan 
 <br>
 Pada praktikum metode komputasi tanggal 29 Agustus 2024 kemarin, saya belajar banyak hal sebagai berikut :
 <br>
 1. Apa itu Git dan Github dan fungsinya?
 <br>
-- Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam file, khususnya dalam pengembangan perangkat lunak.
+[1.] Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam file, khususnya dalam pengembangan perangkat lunak.
 <br>
 - GitHub adalah platform online yang digunakan untuk menyimpan dan mengelola kode. Github memungkinkan banyak orang bekerja bersama dalam proyek perangkat lunak, melacak perubahan yang dibuat pada kode, dan mengelola versi yang berbeda dari proyek tersebut. GitHub juga memungkinkan penggunanya berbagi proyek mereka dengan orang lain, baik untuk berkolaborasi, belajar, ataupun untuk  menunjukkan hasil karya mereka. 
 <br>
@@ -57,7 +55,9 @@ Perbedaan Git dan Github :
 - Git adalah alat yang Anda gunakan di komputer untuk melacak perubahan pada berkas.
 - GitHub adalah situs web yang dapat menyimpan dan berbagi berkas yang telah pengguna lacak dengan Git, dan dapat digunakan sebagai sarana berkolaborasi dengan orang lain.
 <br>
-2. Cara kerja github
+2. Cara kerja Github
+<br>
+Dengan materi yang telah disampaikan, saya menjadi paham bagaimana Github bekerja.
 <br>
 3. Manfaat belajar github
 <br>
