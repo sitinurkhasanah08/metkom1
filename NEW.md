@@ -1,6 +1,6 @@
 ---
 <p align="center">
-## LAPORAN PRAKTIKUM METODE KOMPUTASI
+LAPORAN PRAKTIKUM METODE KOMPUTASI
 <p> 
 
 <p align="center">
@@ -12,8 +12,9 @@ PENGENALAN GITHUB
 <p>
 <br>
 <br>
-<br>
-
 <p align="center">
 DIBUAT OLEH  
+<p>
+<p align="center>
+Nama : Siti Nurkhasanah
 <p>
