@@ -1,6 +1,6 @@
 ---
 <p align="center">
-LAPORAN PRAKTIKUM METODE KOMPUTASI
+**LAPORAN PRAKTIKUM METODE KOMPUTASI**
 <p> 
 
 <p align="center">
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ## Praktikum Metode Komputasi Pertemuan 1
 <br>
 Pada praktikum metode komputasi tanggal 29 Agustus 2024 kemarin, saya belajar banyak hal sebagai berikut :
-1. Apa itu github dan fungsinya
+1. Apa itu github dan fungsinya                              
 2. Cara kerja github
 3. Manfaat belajar github
 4. Praktek menginstal aplikasi github
