@@ -4,6 +4,6 @@ Saya adalah seorang mahasiswi jurusan Geofisika angkatan 2023 Universitas Gadjah
 Saya menyenangi kegiatan membaca buku pengetahuan dan juga buku-buku fiksi. Selain itu saya juga tertarik dengan kegiatan yang membutuhkan kreatifitas dan ketelitian tinggi. 
 
 
-📫 Kontak
+Kontak
 Email     : sitinurkhasanah2004@mail.ugm.ac.id   
 LinkedIn  : https://www.linkedin.com/in/siti-nurkhasanah-21765329
