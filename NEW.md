@@ -16,10 +16,10 @@ PENGENALAN GITHUB
 DIBUAT OLEH  
 <p>
 <p align="center">
-Nama : Siti Nurkhasanah
+Siti Nurkhasanah
 <p>
 <p align="center">
-NIM  : 23/511902/PA/21850
+23/511902/PA/21850
 <p>
 <br>
 <br>
