@@ -40,9 +40,10 @@ UNIVERSITAS GADJAH MADA
 <p align="center">
 ____________________________________________________________________________________________________________________
 <p>
-
+<p align="center">
 # TUGAS 1
 ## Praktikum Metode Komputasi Pertemuan 1
+<p>
 <br>
 Pada praktikum metode komputasi tanggal 29 Agustus 2024 kemarin, saya belajar banyak hal sebagai berikut :
 1. Apa itu github dan fungsinya                              
