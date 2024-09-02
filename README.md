@@ -5,5 +5,5 @@ Saya menyenangi kegiatan membaca buku pengetahuan dan juga buku-buku fiksi. Sela
 
 
 📫 Kontak
-Email    : sitinurkhasanah2004@mail.ugm.ac.id   
-LinkedIn : https://www.linkedin.com/in/siti-nurkhasanah-21765329
+Email     : sitinurkhasanah2004@mail.ugm.ac.id   
+LinkedIn  : https://www.linkedin.com/in/siti-nurkhasanah-21765329
