@@ -1,6 +1,6 @@
 ---
 <p align="center">
-**LAPORAN PRAKTIKUM METODE KOMPUTASI**
+* LAPORAN PRAKTIKUM METODE KOMPUTASI *
 <p> 
 
 <p align="center">
