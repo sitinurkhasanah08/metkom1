@@ -40,7 +40,9 @@ UNIVERSITAS GADJAH MADA
 <p align="center">
 ____________________________________________________________________________________________________________________
 <p>
+  
 # TUGAS 1
+
 ## Apa yang saya pelajari dan masih saya bingungkan 
 <br>
 Pada praktikum metode komputasi tanggal 29 Agustus 2024 kemarin, saya belajar banyak hal sebagai berikut :
